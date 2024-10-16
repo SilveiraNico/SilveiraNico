@@ -41,3 +41,7 @@
 
 <!-- #### Business Analitycs -->
 <!-- #### Low Code -->
+
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilveiraNico&hide=javascript,css,scss,html&theme=tokyonight) 
+-->
