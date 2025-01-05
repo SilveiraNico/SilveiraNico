@@ -20,7 +20,7 @@
 ![CSS](https://img.shields.io/badge/%20-CSS-blue?logo=css3&logoColor=1DA0FF&labelColor=555)&nbsp;
 ![Latex](https://img.shields.io/badge/%20-Latex-blue?logo=latex&logoColor=008080&labelColor=555)&nbsp;
 
-#### Frameworks and Bibliotecas
+#### Frameworks
 ![Node.js](https://img.shields.io/badge/%20-Node.js-blue?logo=nodedotjs&labelColor=555)&nbsp;
 ![React](https://img.shields.io/badge/%20-React-blue?logo=react&labelColor=555)&nbsp;
 
