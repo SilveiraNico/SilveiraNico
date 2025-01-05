@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/%20-JavaScript-blue?logo=javascript&labelColor=555)&nbsp;
 ![Python](https://img.shields.io/badge/%20-Python-blue?logo=python&logoColor=f5f5f5&labelColor=555)&nbsp;
 ![R](https://img.shields.io/badge/%20-R-blue?logo=r&labelColor=555)&nbsp;
+![Dart](https://img.shields.io/badge/%20-Dart-blue?logo=Dart&labelColor=555)&nbsp;
 ![HTML](https://img.shields.io/badge/%20-HTML-blue?logo=html5&labelColor=555)&nbsp;
 ![CSS](https://img.shields.io/badge/%20-CSS-blue?logo=css3&logoColor=1DA0FF&labelColor=555)&nbsp;
 ![Latex](https://img.shields.io/badge/%20-Latex-blue?logo=latex&logoColor=008080&labelColor=555)&nbsp;
@@ -23,6 +24,7 @@
 #### Frameworks
 ![Node.js](https://img.shields.io/badge/%20-Node.js-blue?logo=nodedotjs&labelColor=555)&nbsp;
 ![React](https://img.shields.io/badge/%20-React-blue?logo=react&labelColor=555)&nbsp;
+![Flutter](https://img.shields.io/badge/%20-Flutter-blue?logo=Flutter&labelColor=555)&nbsp;
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/%20-mongoDB-blue?logo=mongoDB&logoColor=47A248&labelColor=555)&nbsp;
